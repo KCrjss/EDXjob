@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="UTF-8">
+    <title>Recipe Project</title>
+  </head>
+  
+  <body>
+  
+    <h1>My Favourite Recipes</h1>
+    
+    <nav>
+      <ol>
+       <li><a href="#tiramisu">Tiramisu</a></li>
+       <li><a href="#pizza">Pizza</a></li>
+       <li><a href="#linguine">Linguine with pesto</a></li>
+      </ol>
+    </nav>
+    
+    <article id="tiramisu">
+       <h2>Tiramisu</h2>
+       <img src="http://www.roadtopastry.com/blog/wp-content/uploads/Recipe-Traditional-Tiramisu-01.jpg alt="Image of the Italian 
+       coffee-flavored dessert" title="Italian dessert Tiramisu" height="200">
+       
+       <p>Ingredients for 4 persons or one very greedy like me:</p>
+       <ul>
+         <li><b>6</b> eggs</li>
+         <li><b>1</b> package of Savoiardi biscuits</li>
+         <li><b>1</b> cup of Italian coffee</li>
+         <li><b>120</b>g of sugar plus 2 little spoon for the coffee</li>
+         <li><b>500</b> g of mascarpone cheese</li>
+         <li>cocoa powder</li>
+       </ul>
+       
+       
+  </body>
+  
+</html>
