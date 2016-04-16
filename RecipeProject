@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+ <html>
+ 
+   <head>
+     <meta charset="UTF-8">
+     <title>Recipe Project</title>
+   </head>
+   
+   <body>
+   
+     <h1>My Favourite Recipes</h1>
+     
+     <nav>
+       <ol>
+        <li><a href="#tiramisu">Tiramisu</a></li>
+        <li><a href="#pizza">Pizza</a></li>
+        <li><a href="#linguine">Linguine with pesto</a></li>
+       </ol>
+     </nav>
+     
+     <article id="tiramisu">
+        <h2>Tiramisu</h2>
+        <img src="http://www.roadtopastry.com/blog/wp-content/uploads/Recipe-Traditional-Tiramisu-01.jpg alt="Image of the Italian 
+        coffee-flavored dessert" title="Italian dessert Tiramisu" height="200">
+        
+        <p>Ingredients for 4 persons (or one person very greedy like me)</p>
+        <ul>
+          <li><b>6</b> eggs</li>
+          <li><b>1</b> package of Savoiardi biscuits</li>
+          <li><b>1</b> cup of Italian coffee</li>
+          <li><b>120</b>g sugar plus 2 little spoon for the coffee</li>
+          <li><b>500</b>g of mascarpone cheese</li>
+          <li>cocoa powder</li>
+        </ul>
+    <br />
+        <p>Directions</p>
+          <ul>
+            <li><b>Step 1</b> - Bla, bla, bla ... </li>
+            <li><b>Step 2</b> - Bla, bla, bla ... </li>
+            <li><b>Step 3</b> - Bla, bla, bla ... </li>
+            <li><b>Step 4</b> - Bla, bla, bla ... </li>
+            <li><b>Step 5</b> - Bla, bla, bla ... </li>
+         </ul>
+    </article>
+    
+     <article id="pizza">
+        <h2>Pizza</h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg/390px-Eq_it-na_pizza-
+        margherita_sep2005_sml.jpg" alt="Image of the Margherita pizza" title="Margherita pizza" height="200">
+        
+        <p>Ingredients for 4 persons</p>
+        <p>For the base</p>
+        <ul>
+          <li><b>1</b>k strong bread flour</li>
+          <li><b>600</b>g water</li>
+          <li><b>60</b>g extra virgin olive oil plus extra for drizzling</li>
+          <li><b>20</b>g salt</li>
+          <li><b>7</b>g baker's yeast</li>
+          <li><b>2</b> little spoons of sugar</li>
+        </ul>
+         <p>For the tomato sauce</p>
+          <ul>
+          <li><b>500</b>ml passata</li>
+          <li>b>handful fresh basil</li>
+          <li>extra virgin olive oil, to taste
+        </ul>
+        <p>For the topping</p>
+         <ul>
+          <li><b>500</b>g ball mozzarella, sliced</li>
+          <li>b>handful basil leaves</li>
+        </ul>
+    <br />
+        <p>Directions</p>
+          <ul>
+            <li><b>Step 1</b> - Bla, bla, bla ... </li>
+            <li><b>Step 2</b> - Bla, bla, bla ... </li>
+            <li><b>Step 3</b> - Bla, bla, bla ... </li>
+            <li><b>Step 4</b> - Bla, bla, bla ... </li>
+            <li><b>Step 5</b> - Bla, bla, bla ... </li>
+         </ul>
+    </article>
+    
+     <article id="linguine">
+        <h2>Linguine with pesto</h2>
+        <img src="http://cdn.gingerandtomato.com/wp-content/uploads/2014/08/Spaghetti-al-pesto-di-pistacchi-e-mandorle.jpg" 
+        alt="Image of linguine with Italian sauce  pesto" title="Italian dessert Tiramisu" height="200">
+        
+        <p>Ingredients (serves 4 or 6)</p>
+        <p>For the pesto</p>
+        <ul>
+          <li><b>2</b> cups fresh basil leaves</li>
+          <li><b>3</b> tbsp of pine nuts, toasted</li>
+          <li><b>2</b> small cloves of garlic</li>
+          <li>&frac12; cup extra virgin olive oil</li> 
+          <li>&frac12; cup of fresh Parmiggiano Reggiano</li>
+          <li>salt and pepper, to taste</li>
+        </ul>
+        <p>For the remaining ingredients</p>
+        <ul>
+          <li><b>1</b>k of linguine</li> 
+          <li>salt and pepper</li>
+          <li>freshly grated Parmiggiano Reggiano</li>
+    <br />
+        <p>Process</p>
+          <ul>
+            <li><b>Step 1</b> - Bla, bla, bla ... </li>
+            <li><b>Step 2</b> - Bla, bla, bla ... </li>
+            <li><b>Step 3</b> - Bla, bla, bla ... </li>
+            <li><b>Step 4</b> - Bla, bla, bla ... </li>
+            <li><b>Step 5</b> - Bla, bla, bla ... </li>
+         </ul>
+    </article>
+        
+   </body>
+   
+ </html>
